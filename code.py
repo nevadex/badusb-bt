@@ -249,7 +249,7 @@ if not progStatus:
         print("[BB] Keyboard Interrupt. Exiting")
 
     except Exception as ex:
-        print("[BB] Encountered an error.\n=====" + str(ex) + "=====\nRestarting")
+        print("[BB] Encountered an error.\n=====\n" + str(ex) + "\n=====\nRestarting")
         supervisor.reload()
 else:
     print("[BB] Safe mode, program not active")
