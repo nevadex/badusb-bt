@@ -4,6 +4,8 @@
 
 [*Original by dbisu*](https://github.com/dbisu/pico-ducky/)
 
+## NOTE: i uploaded this before the pico w announcement. i am lazy and probably will not adapt it to work with pico w, but if you do please make a pull request/fork
+
 ---
 **Requirements:**
 - A board that supports circuit python, USB, and UART (rpi pico)
